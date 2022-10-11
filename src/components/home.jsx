@@ -9,7 +9,7 @@ const Home = () => {
                     I'm a quick learner and enthusiastic person, looking for opportunities to enhance my skills and knowledge.
                 </p>
                 <div>
-                    <a href="../Resume.pdf" target="_blank" download className="text-white w-fit px-6 py-2 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 hover:scale-125 duration-200">
+                    <a href="../Resume 1.pdf" target="_blank" download className="text-white w-fit px-6 py-2 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 hover:scale-125 duration-200">
                         Resume
                     </a>
                 </div>
