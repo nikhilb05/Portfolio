@@ -53,7 +53,7 @@ const Skills = () => {
         <div name="skills" className="w-full h-screen bg-gradient-to-b from-black to-gray-800 text-white">
             <div className="max-w-screen-lg p-4 mx-auto flex flex-col w-full h-full justify-center">
                 <div>
-                    <h2 className="text-4xl sm:text-7xl font-bold pb-8 p-2">
+                    <h2 className="text-4xl sm:text-7xl font-bold pb-8">
                         Skills
                     </h2>
                     <p className="text-gray-500 text-xl font-medium">
