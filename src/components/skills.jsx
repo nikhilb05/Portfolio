@@ -4,6 +4,8 @@ import javascript from "../assets1/javascript.png"
 import react from "../assets1/react.png"
 import tailwind from "../assets1/tailwind.png"
 import premiere from "../assets1/premiere.png"
+import java from "../assets1/java.png"
+import sql from "../assets1/sql.png"
 
 
 
@@ -32,7 +34,7 @@ const Skills = () => {
             id: 4,
             src: react,
             title: 'React',
-            style: 'shadow-blue-500',
+            style: 'shadow-cyan-500',
         },
         {
             id: 5,
@@ -45,6 +47,18 @@ const Skills = () => {
             src: premiere,
             title: 'Premiere Pro',
             style: 'shadow-purple-500',
+        },
+        {
+            id: 7,
+            src: java,
+            title: 'Java',
+            style: 'shadow-white',
+        },
+        {
+            id: 8,
+            src: sql,
+            title: 'SQL',
+            style: 'shadow-blue-500',
         },
         
     ]
